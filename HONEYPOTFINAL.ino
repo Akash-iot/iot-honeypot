@@ -1,7 +1,5 @@
 /*************************************************************
-                      creadits : MIT ( ironclad tea.l..l.m )
-                      Team member: Akash.M,anandhapriyan.k
-                                   keerthana , fahimah  
+                      creadits: Akash-iot
 open port will shut down due to attack  
 Fake web interface with root, user login, admin login, and IoT config pages
 Fake dashboard UI showing device statuses
